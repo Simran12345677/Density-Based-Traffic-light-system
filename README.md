@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/7090c5cf-63d5-4617-8f56-9b2af44d69c4
 
 
   
-# AI-Driven Density-Based Smart Traffic Controller
+# Density-Based Smart Traffic Controller
 
 An intelligent traffic management system that uses Computer Vision and Arduino to dynamically adjust traffic light timers based on real-time vehicle density.
 
